@@ -1,0 +1,9 @@
+/* Remove Default Style */
+*{margin: 0; padding: 0; box-sizing: border-box;}
+a{color: #212529; text-decoration: none;}
+ol,ul{list-style: none;}
+input, button, textarea{outline: 0; border-radius: 0;}
+textarea{resize: none;}
+img{display: block;}
+
+/* Setting Reset Latout */

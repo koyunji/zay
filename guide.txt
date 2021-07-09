@@ -1,0 +1,9 @@
+1. color
+- #ffffff(주색)
+- #59ab6e(포인트색)
+- #212934(보조색)
+
+2. font
+- Noto Sans KR(한글)
+- Roboto(영어)
+- #212529(main font color)
